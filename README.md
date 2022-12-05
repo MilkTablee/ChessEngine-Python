@@ -8,4 +8,4 @@ Multiplayer: playerOne = True, playerTwo = True
 
 Chess engine vs chess engine: playerOne = False, playerTwo = False
 
-Written in Python 3.9.9 on PyCharm IDE
+Written in Python 3.9.9 on PyCharm IDE.
